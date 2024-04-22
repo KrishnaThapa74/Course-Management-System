@@ -1,0 +1,9 @@
+Rabindra_Khatri 9841706490 kathmandu Personal_Development 11/02 4
+Binita_Bhandari 9851093387 Imadol Java 10/01 6
+Rupesh_Thapa 9817680477 Ghothatar Python 11/02 5
+Deepak_Giri 9860062661 Imadol maths 09/10 4
+Sugam_Gautam 9845456732 Kadaghari bigdata 10/01 6
+Sunil_Shrestha 9844040403 Tikathali Web_development 9/12 4
+Sajan_gurung 9808565478 Chabahil Algorithm 1/01 6
+Krishna_Thapa 983456782 Baneshwor Flowchart 8/02 5
+Rupak_Neupane 9867542311 Balkumari Machine_learning 11/02 4
